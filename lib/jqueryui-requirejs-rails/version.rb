@@ -1,0 +1,3 @@
+module JqueryuiRequirejsRails
+  VERSION = "0.0.1"
+end
